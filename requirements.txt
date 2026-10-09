@@ -1,0 +1,7 @@
+google-genai==2.29.0
+python-dotenv==1.2.4
+pypdf==6.19.0
+numpy==2.2.6
+colorama==0.4.6
+pydantic==2.13.5
+httpx==0.28.1
